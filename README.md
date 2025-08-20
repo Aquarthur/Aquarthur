@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on making lounges more accessible than ever via LoungeBuddy!
-- ⚡ Fun fact: did you know a plateau is the highest form of flattery?
+I'm currently writing a lot of Go and Python for work, and loving it (especially Go)! I'm enjoying learning more about all the batteries the Go standard library includes, and about writing code that's easy on the eyes (especially at 2am).
